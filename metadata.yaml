@@ -1,0 +1,34 @@
+_repo: Miss-Eden-s-Letters_41400
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41400-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eden, Emily
+    birthdate: 1797
+    deathdate: 1869
+    gutenberg_agent_id: '41162'
+    url: http://www.gutenberg.org/2009/agents/41162
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Eden
+  editor:
+    agent_name: Dickinson, Violet Mary
+    alias: Dickinson, Violet
+    gutenberg_agent_id: '41163'
+    url: http://www.gutenberg.org/2009/agents/41163
+description: ''
+gutenberg_issued: '2012-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Correspondence'
+- !lcsh 'Eden, Emily, 1797-1869 -- Correspondence'
+- !lcc 'DA'
+title: Miss Eden's Letters
+url: http://www.gutenberg.org/ebooks/41400
