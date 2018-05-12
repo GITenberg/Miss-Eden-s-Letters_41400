@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41163'
     url: http://www.gutenberg.org/2009/agents/41163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41400#Miss-Eden-s-Letters
 gutenberg_issued: '2012-11-18'
 gutenberg_type: Text
 identifiers:
